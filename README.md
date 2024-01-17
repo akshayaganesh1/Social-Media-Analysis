@@ -1,4 +1,5 @@
 About❓
+
 Through this project we are creating a basic structure of social media database which could easily be connected to frontend interface.
 Here we are managing the data of multiple users, their followers , interests and public activity on the social media platform which includes postlikes ,comments , commentlikes , hashtag followed ,bookmarks and many more...
 Through our SQL query we have shown a clear cut description of connection and inter relation between different activities on social media.
